@@ -13,3 +13,7 @@ Dataset: Diabetic Retinopathy: https://www.kaggle.com/datasets/pkdarabi/diagnosi
 Skin Cancer: https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign/
 
 Breast Cancer: https://www.kaggle.com/datasets/forderation/breakhis-400x 
+
+Video Drive Link: https://drive.google.com/file/d/1-4ATncUdvTF2k_9Z_06PqgAssFXhzPTo/view?usp=sharing
+
+
